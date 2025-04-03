@@ -1,0 +1,1 @@
+This file is a "feature" to test the merging of two branches within a repository.
